@@ -41,3 +41,13 @@ Es un proyecto realizado en node.js con el fin de ejemplificar el uso de docker,
 
 ```
 17.- Instalar los requerimentos con el comando "pip install -r requirements.txt"
+18.- utilizar el comando "python cheekymonkey.py --exclude kube-system cert-manager istio-system" para correr el programa
+```
+
+###Elaborado por: ⌨️
+
+
+
+```
+Vargas López David Guadalupe
+```
